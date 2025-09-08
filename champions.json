@@ -1,0 +1,1370 @@
+[
+    {
+        "name": "Aatrox",
+        "description": "the Darkin Blade",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Aatrox_OriginalSquare.png/42px-Aatrox_OriginalSquare.png?c0f58",
+        "class": "Juggernaut",
+        "be": "2400",
+        "rp": "880"
+    },
+    {
+        "name": "Ahri",
+        "description": "the Nine-Tailed Fox",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Ahri_OriginalSquare.png/42px-Ahri_OriginalSquare.png?d60a2",
+        "class": "Burst",
+        "be": "1575",
+        "rp": "790"
+    },
+    {
+        "name": "Akali",
+        "description": "the Rogue Assassin",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Akali_OriginalSquare.png/42px-Akali_OriginalSquare.png?55774",
+        "class": "Assassin",
+        "be": "1575",
+        "rp": "790"
+    },
+    {
+        "name": "Akshan",
+        "description": "the Rogue Sentinel",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Akshan_OriginalSquare.png/42px-Akshan_OriginalSquare.png?f8657",
+        "class": "Marksman",
+        "be": "2400",
+        "rp": "880"
+    },
+    {
+        "name": "Alistar",
+        "description": "the Minotaur",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Alistar_OriginalSquare.png/42px-Alistar_OriginalSquare.png?12536",
+        "class": "Vanguard",
+        "be": "675",
+        "rp": "585"
+    },
+    {
+        "name": "Ambessa",
+        "description": "Matriarch of War",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Ambessa_OriginalSquare.png/42px-Ambessa_OriginalSquare.png?6798d",
+        "class": "Diver",
+        "be": "3150",
+        "rp": "975"
+    },
+    {
+        "name": "Amumu",
+        "description": "the Sad Mummy",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Amumu_OriginalSquare.png/42px-Amumu_OriginalSquare.png?3fa85",
+        "class": "Vanguard",
+        "be": "225",
+        "rp": "260"
+    },
+    {
+        "name": "Anivia",
+        "description": "the Cryophoenix",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Anivia_OriginalSquare.png/42px-Anivia_OriginalSquare.png?dda87",
+        "class": "Battlemage",
+        "be": "1575",
+        "rp": "790"
+    },
+    {
+        "name": "Annie",
+        "description": "the Dark Child",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Annie_OriginalSquare.png/42px-Annie_OriginalSquare.png?5e95f",
+        "class": "Burst",
+        "be": "225",
+        "rp": "260"
+    },
+    {
+        "name": "Aphelios",
+        "description": "the Weapon of the Faithful",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Aphelios_OriginalSquare.png/42px-Aphelios_OriginalSquare.png?4ae88",
+        "class": "Marksman",
+        "be": "2400",
+        "rp": "880"
+    },
+    {
+        "name": "Ashe",
+        "description": "the Frost Archer",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Ashe_OriginalSquare.png/42px-Ashe_OriginalSquare.png?55e1d",
+        "class": "Marksman",
+        "be": "225",
+        "rp": "260"
+    },
+    {
+        "name": "Aurelion Sol",
+        "description": "The Star Forger",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Aurelion_Sol_OriginalSquare.png/42px-Aurelion_Sol_OriginalSquare.png?98383",
+        "class": "Battlemage",
+        "be": "2400",
+        "rp": "880"
+    },
+    {
+        "name": "Aurora",
+        "description": "the Witch Between Worlds",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Aurora_OriginalSquare.png/42px-Aurora_OriginalSquare.png?5dac9",
+        "class": "Burst",
+        "be": "3150",
+        "rp": "975"
+    },
+    {
+        "name": "Azir",
+        "description": "the Emperor of the Sands",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Azir_OriginalSquare.png/42px-Azir_OriginalSquare.png?95417",
+        "class": "Specialist",
+        "be": "2400",
+        "rp": "880"
+    },
+    {
+        "name": "Bard",
+        "description": "the Wandering Caretaker",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Bard_OriginalSquare.png/42px-Bard_OriginalSquare.png?d0233",
+        "class": "Catcher",
+        "be": "2400",
+        "rp": "880"
+    },
+    {
+        "name": "Bel'Veth",
+        "description": "the Empress of the Void",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Bel%27Veth_OriginalSquare.png/42px-Bel%27Veth_OriginalSquare.png?88288",
+        "class": "Skirmisher",
+        "be": "1575",
+        "rp": "790"
+    },
+    {
+        "name": "Blitzcrank",
+        "description": "the Great Steam Golem",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Blitzcrank_OriginalSquare.png/42px-Blitzcrank_OriginalSquare.png?af7dd",
+        "class": "Catcher",
+        "be": "675",
+        "rp": "585"
+    },
+    {
+        "name": "Brand",
+        "description": "the Burning Vengeance",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Brand_OriginalSquare.png/42px-Brand_OriginalSquare.png?336d6",
+        "class": "Burst",
+        "be": "225",
+        "rp": "260"
+    },
+    {
+        "name": "Braum",
+        "description": "the Heart of the Freljord",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Braum_OriginalSquare.png/42px-Braum_OriginalSquare.png?96d05",
+        "class": "Warden",
+        "be": "1575",
+        "rp": "790"
+    },
+    {
+        "name": "Briar",
+        "description": "the Restrained Hunger",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Briar_OriginalSquare.png/42px-Briar_OriginalSquare.png?37f17",
+        "class": "Diver",
+        "be": "2400",
+        "rp": "880"
+    },
+    {
+        "name": "Caitlyn",
+        "description": "the Sheriff of Piltover",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Caitlyn_OriginalSquare.png/42px-Caitlyn_OriginalSquare.png?818cf",
+        "class": "Marksman",
+        "be": "225",
+        "rp": "260"
+    },
+    {
+        "name": "Camille",
+        "description": "the Steel Shadow",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Camille_OriginalSquare.png/42px-Camille_OriginalSquare.png?aba4a",
+        "class": "Diver",
+        "be": "2400",
+        "rp": "880"
+    },
+    {
+        "name": "Cassiopeia",
+        "description": "the Serpent's Embrace",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Cassiopeia_OriginalSquare.png/42px-Cassiopeia_OriginalSquare.png?56ef7",
+        "class": "Battlemage",
+        "be": "2400",
+        "rp": "880"
+    },
+    {
+        "name": "Cho'Gath",
+        "description": "the Terror of the Void",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Cho%27Gath_OriginalSquare.png/42px-Cho%27Gath_OriginalSquare.png?70f42",
+        "class": "Specialist",
+        "be": "675",
+        "rp": "585"
+    },
+    {
+        "name": "Corki",
+        "description": "the Daring Bombardier",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Corki_OriginalSquare.png/42px-Corki_OriginalSquare.png?8bc1a",
+        "class": "Marksman",
+        "be": "1575",
+        "rp": "790"
+    },
+    {
+        "name": "Darius",
+        "description": "the Hand of Noxus",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Darius_OriginalSquare.png/42px-Darius_OriginalSquare.png?aca4c",
+        "class": "Juggernaut",
+        "be": "225",
+        "rp": "260"
+    },
+    {
+        "name": "Diana",
+        "description": "Scorn of the Moon",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Diana_OriginalSquare.png/42px-Diana_OriginalSquare.png?d5d54",
+        "class": "Assassin",
+        "be": "225",
+        "rp": "260"
+    },
+    {
+        "name": "Dr. Mundo",
+        "description": "the Madman of Zaun",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Dr._Mundo_OriginalSquare.png/42px-Dr._Mundo_OriginalSquare.png?5756a",
+        "class": "Juggernaut",
+        "be": "225",
+        "rp": "260"
+    },
+    {
+        "name": "Draven",
+        "description": "the Glorious Executioner",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Draven_OriginalSquare.png/42px-Draven_OriginalSquare.png?63957",
+        "class": "Marksman",
+        "be": "2400",
+        "rp": "880"
+    },
+    {
+        "name": "Ekko",
+        "description": "the Boy Who Shattered Time",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Ekko_OriginalSquare.png/42px-Ekko_OriginalSquare.png?15376",
+        "class": "Assassin",
+        "be": "1575",
+        "rp": "790"
+    },
+    {
+        "name": "Elise",
+        "description": "the Spider Queen",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Elise_OriginalSquare.png/42px-Elise_OriginalSquare.png?b97b0",
+        "class": "Diver",
+        "be": "2400",
+        "rp": "880"
+    },
+    {
+        "name": "Evelynn",
+        "description": "Agony's Embrace",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Evelynn_OriginalSquare.png/42px-Evelynn_OriginalSquare.png?1ed7f",
+        "class": "Assassin",
+        "be": "675",
+        "rp": "585"
+    },
+    {
+        "name": "Ezreal",
+        "description": "the Prodigal Explorer",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Ezreal_OriginalSquare.png/42px-Ezreal_OriginalSquare.png?fc667",
+        "class": "Marksman",
+        "be": "675",
+        "rp": "585"
+    },
+    {
+        "name": "Fiddlesticks",
+        "description": "the Ancient Fear",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Fiddlesticks_OriginalSquare.png/42px-Fiddlesticks_OriginalSquare.png?1082b",
+        "class": "Specialist",
+        "be": "675",
+        "rp": "585"
+    },
+    {
+        "name": "Fiora",
+        "description": "the Grand Duelist",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Fiora_OriginalSquare.png/42px-Fiora_OriginalSquare.png?0b643",
+        "class": "Skirmisher",
+        "be": "2400",
+        "rp": "880"
+    },
+    {
+        "name": "Fizz",
+        "description": "the Tidal Trickster",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Fizz_OriginalSquare.png/42px-Fizz_OriginalSquare.png?44c3d",
+        "class": "Assassin",
+        "be": "675",
+        "rp": "585"
+    },
+    {
+        "name": "Galio",
+        "description": "the Colossus",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Galio_OriginalSquare.png/42px-Galio_OriginalSquare.png?698b3",
+        "class": "Warden",
+        "be": "1575",
+        "rp": "790"
+    },
+    {
+        "name": "Gangplank",
+        "description": "the Saltwater Scourge",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Gangplank_OriginalSquare.png/42px-Gangplank_OriginalSquare.png?6b5cf",
+        "class": "Specialist",
+        "be": "1575",
+        "rp": "790"
+    },
+    {
+        "name": "Garen",
+        "description": "The Might of Demacia",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Garen_OriginalSquare.png/42px-Garen_OriginalSquare.png?37153",
+        "class": "Juggernaut",
+        "be": "225",
+        "rp": "260"
+    },
+    {
+        "name": "Gnar",
+        "description": "the Missing Link",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Gnar_OriginalSquare.png/42px-Gnar_OriginalSquare.png?11c50",
+        "class": "Specialist",
+        "be": "2400",
+        "rp": "880"
+    },
+    {
+        "name": "Gragas",
+        "description": "the Rabble Rouser",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Gragas_OriginalSquare.png/42px-Gragas_OriginalSquare.png?41e2d",
+        "class": "Vanguard",
+        "be": "1575",
+        "rp": "790"
+    },
+    {
+        "name": "Graves",
+        "description": "the Outlaw",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Graves_OriginalSquare.png/42px-Graves_OriginalSquare.png?1d234",
+        "class": "Specialist",
+        "be": "2400",
+        "rp": "880"
+    },
+    {
+        "name": "Gwen",
+        "description": "The Hallowed Seamstress",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Gwen_OriginalSquare.png/42px-Gwen_OriginalSquare.png?794a1",
+        "class": "Skirmisher",
+        "be": "2400",
+        "rp": "880"
+    },
+    {
+        "name": "Hecarim",
+        "description": "the Shadow of War",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Hecarim_OriginalSquare.png/42px-Hecarim_OriginalSquare.png?89760",
+        "class": "Diver",
+        "be": "2400",
+        "rp": "880"
+    },
+    {
+        "name": "Heimerdinger",
+        "description": "the Revered Inventor",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Heimerdinger_OriginalSquare.png/42px-Heimerdinger_OriginalSquare.png?80a6b",
+        "class": "Specialist",
+        "be": "1575",
+        "rp": "790"
+    },
+    {
+        "name": "Hwei",
+        "description": "the Visionary",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Hwei_OriginalSquare.png/42px-Hwei_OriginalSquare.png?0c03b",
+        "class": "Artillery",
+        "be": "2400",
+        "rp": "880"
+    },
+    {
+        "name": "Illaoi",
+        "description": "the Kraken Priestess",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Illaoi_OriginalSquare.png/42px-Illaoi_OriginalSquare.png?37418",
+        "class": "Juggernaut",
+        "be": "1575",
+        "rp": "790"
+    },
+    {
+        "name": "Irelia",
+        "description": "the Blade Dancer",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Irelia_OriginalSquare.png/42px-Irelia_OriginalSquare.png?fad5e",
+        "class": "Diver",
+        "be": "1575",
+        "rp": "790"
+    },
+    {
+        "name": "Ivern",
+        "description": "the Green Father",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Ivern_OriginalSquare.png/42px-Ivern_OriginalSquare.png?e28f2",
+        "class": "Catcher",
+        "be": "2400",
+        "rp": "880"
+    },
+    {
+        "name": "Janna",
+        "description": "the Storm's Fury",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Janna_OriginalSquare.png/42px-Janna_OriginalSquare.png?ec2a0",
+        "class": "Enchanter",
+        "be": "675",
+        "rp": "585"
+    },
+    {
+        "name": "Jarvan IV",
+        "description": "the Exemplar of Demacia",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Jarvan_IV_OriginalSquare.png/42px-Jarvan_IV_OriginalSquare.png?74a73",
+        "class": "Diver",
+        "be": "1575",
+        "rp": "790"
+    },
+    {
+        "name": "Jax",
+        "description": "Grandmaster at Arms",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Jax_OriginalSquare.png/42px-Jax_OriginalSquare.png?6209d",
+        "class": "Skirmisher",
+        "be": "675",
+        "rp": "585"
+    },
+    {
+        "name": "Jayce",
+        "description": "the Defender of Tomorrow",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Jayce_OriginalSquare.png/42px-Jayce_OriginalSquare.png?02706",
+        "class": "Artillery",
+        "be": "2400",
+        "rp": "880"
+    },
+    {
+        "name": "Jhin",
+        "description": "the Virtuoso",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Jhin_OriginalSquare.png/42px-Jhin_OriginalSquare.png?893f1",
+        "class": "Marksman",
+        "be": "1234",
+        "rp": "880"
+    },
+    {
+        "name": "Jinx",
+        "description": "the Loose Cannon",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Jinx_OriginalSquare.png/42px-Jinx_OriginalSquare.png?95e74",
+        "class": "Marksman",
+        "be": "1575",
+        "rp": "790"
+    },
+    {
+        "name": "K'Sante",
+        "description": "the Pride of Nazumah",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/K%27Sante_OriginalSquare.png/42px-K%27Sante_OriginalSquare.png?6c0c1",
+        "class": "Warden",
+        "be": "2400",
+        "rp": "880"
+    },
+    {
+        "name": "Kai'Sa",
+        "description": "Daughter of the Void",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Kai%27Sa_OriginalSquare.png/42px-Kai%27Sa_OriginalSquare.png?3d567",
+        "class": "Marksman",
+        "be": "675",
+        "rp": "585"
+    },
+    {
+        "name": "Kalista",
+        "description": "the Spear of Vengeance",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Kalista_OriginalSquare.png/42px-Kalista_OriginalSquare.png?e5c71",
+        "class": "Marksman",
+        "be": "2400",
+        "rp": "880"
+    },
+    {
+        "name": "Karma",
+        "description": "the Enlightened One",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Karma_OriginalSquare.png/42px-Karma_OriginalSquare.png?46695",
+        "class": "Burst",
+        "be": "1575",
+        "rp": "790"
+    },
+    {
+        "name": "Karthus",
+        "description": "the Deathsinger",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Karthus_OriginalSquare.png/42px-Karthus_OriginalSquare.png?46df2",
+        "class": "Battlemage",
+        "be": "1575",
+        "rp": "790"
+    },
+    {
+        "name": "Kassadin",
+        "description": "the Void Walker",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Kassadin_OriginalSquare.png/42px-Kassadin_OriginalSquare.png?d6b88",
+        "class": "Assassin",
+        "be": "1575",
+        "rp": "790"
+    },
+    {
+        "name": "Katarina",
+        "description": "the Sinister Blade",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Katarina_OriginalSquare.png/42px-Katarina_OriginalSquare.png?e11e0",
+        "class": "Assassin",
+        "be": "1575",
+        "rp": "790"
+    },
+    {
+        "name": "Kayle",
+        "description": "the Righteous",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Kayle_OriginalSquare.png/42px-Kayle_OriginalSquare.png?4677c",
+        "class": "Specialist",
+        "be": "2400",
+        "rp": "260"
+    },
+    {
+        "name": "Kayn",
+        "description": "the Shadow Reaper",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Kayn_OriginalSquare.png/42px-Kayn_OriginalSquare.png?37607",
+        "class": "Skirmisher",
+        "be": "1575",
+        "rp": "790"
+    },
+    {
+        "name": "Kennen",
+        "description": "the Heart of the Tempest",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Kennen_OriginalSquare.png/42px-Kennen_OriginalSquare.png?f8fad",
+        "class": "Specialist",
+        "be": "2400",
+        "rp": "880"
+    },
+    {
+        "name": "Kha'Zix",
+        "description": "the Voidreaver",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Kha%27Zix_OriginalSquare.png/42px-Kha%27Zix_OriginalSquare.png?a0597",
+        "class": "Assassin",
+        "be": "2400",
+        "rp": "880"
+    },
+    {
+        "name": "Kindred",
+        "description": "The Eternal Hunters",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Kindred_OriginalSquare.png/42px-Kindred_OriginalSquare.png?86d26",
+        "class": "Marksman",
+        "be": "2400",
+        "rp": "880"
+    },
+    {
+        "name": "Kled",
+        "description": "the Cantankerous Cavalier",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Kled_OriginalSquare.png/42px-Kled_OriginalSquare.png?353e8",
+        "class": "Skirmisher",
+        "be": "2400",
+        "rp": "880"
+    },
+    {
+        "name": "Kog'Maw",
+        "description": "the Mouth of the Abyss",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Kog%27Maw_OriginalSquare.png/42px-Kog%27Maw_OriginalSquare.png?1f3d5",
+        "class": "Marksman",
+        "be": "2400",
+        "rp": "880"
+    },
+    {
+        "name": "LeBlanc",
+        "description": "the Deceiver",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/LeBlanc_OriginalSquare.png/42px-LeBlanc_OriginalSquare.png?4031b",
+        "class": "Burst",
+        "be": "1575",
+        "rp": "790"
+    },
+    {
+        "name": "Lee Sin",
+        "description": "the Blind Monk",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Lee_Sin_OriginalSquare.png/42px-Lee_Sin_OriginalSquare.png?f1618",
+        "class": "Diver",
+        "be": "675",
+        "rp": "585"
+    },
+    {
+        "name": "Leona",
+        "description": "the Radiant Dawn",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Leona_OriginalSquare.png/42px-Leona_OriginalSquare.png?9c355",
+        "class": "Vanguard",
+        "be": "225",
+        "rp": "260"
+    },
+    {
+        "name": "Lillia",
+        "description": "the Bashful Bloom",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Lillia_OriginalSquare.png/42px-Lillia_OriginalSquare.png?16dff",
+        "class": "Skirmisher",
+        "be": "2400",
+        "rp": "880"
+    },
+    {
+        "name": "Lissandra",
+        "description": "the Ice Witch",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Lissandra_OriginalSquare.png/42px-Lissandra_OriginalSquare.png?fe62c",
+        "class": "Burst",
+        "be": "2400",
+        "rp": "880"
+    },
+    {
+        "name": "Lucian",
+        "description": "the Purifier",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Lucian_OriginalSquare.png/42px-Lucian_OriginalSquare.png?514f2",
+        "class": "Marksman",
+        "be": "675",
+        "rp": "585"
+    },
+    {
+        "name": "Lulu",
+        "description": "the Fae Sorceress",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Lulu_OriginalSquare.png/42px-Lulu_OriginalSquare.png?18777",
+        "class": "Enchanter",
+        "be": "2400",
+        "rp": "880"
+    },
+    {
+        "name": "Lux",
+        "description": "the Lady of Luminosity",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Lux_OriginalSquare.png/42px-Lux_OriginalSquare.png?285c1",
+        "class": "Burst",
+        "be": "225",
+        "rp": "260"
+    },
+    {
+        "name": "Malphite",
+        "description": "Shard of the Monolith",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Malphite_OriginalSquare.png/42px-Malphite_OriginalSquare.png?e38f9",
+        "class": "Vanguard",
+        "be": "225",
+        "rp": "260"
+    },
+    {
+        "name": "Malzahar",
+        "description": "the Prophet of the Void",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Malzahar_OriginalSquare.png/42px-Malzahar_OriginalSquare.png?0d05f",
+        "class": "Battlemage",
+        "be": "2400",
+        "rp": "880"
+    },
+    {
+        "name": "Maokai",
+        "description": "the Twisted Treant",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Maokai_OriginalSquare.png/42px-Maokai_OriginalSquare.png?5d15e",
+        "class": "Vanguard",
+        "be": "2400",
+        "rp": "880"
+    },
+    {
+        "name": "Master Yi",
+        "description": "the Wuju Bladesman",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Master_Yi_OriginalSquare.png/42px-Master_Yi_OriginalSquare.png?3d56a",
+        "class": "Skirmisher",
+        "be": "225",
+        "rp": "260"
+    },
+    {
+        "name": "Mel",
+        "description": "the Soul's Reflection",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Mel_OriginalSquare.png/42px-Mel_OriginalSquare.png?dbac6",
+        "class": "Artillery",
+        "be": "3150",
+        "rp": "975"
+    },
+    {
+        "name": "Milio",
+        "description": "The Gentle Flame",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Milio_OriginalSquare.png/42px-Milio_OriginalSquare.png?b81c0",
+        "class": "Enchanter",
+        "be": "2400",
+        "rp": "880"
+    },
+    {
+        "name": "Miss Fortune",
+        "description": "the Bounty Hunter",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Miss_Fortune_OriginalSquare.png/42px-Miss_Fortune_OriginalSquare.png?47a40",
+        "class": "Marksman",
+        "be": "225",
+        "rp": "260"
+    },
+    {
+        "name": "Mordekaiser",
+        "description": "the Iron Revenant",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Mordekaiser_OriginalSquare.png/42px-Mordekaiser_OriginalSquare.png?76c25",
+        "class": "Juggernaut",
+        "be": "675",
+        "rp": "585"
+    },
+    {
+        "name": "Morgana",
+        "description": "the Fallen",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Morgana_OriginalSquare.png/42px-Morgana_OriginalSquare.png?03afb",
+        "class": "Catcher",
+        "be": "675",
+        "rp": "585"
+    },
+    {
+        "name": "Naafiri",
+        "description": "the Hound of a Hundred Bites",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Naafiri_OriginalSquare.png/42px-Naafiri_OriginalSquare.png?ccf30",
+        "class": "Assassin",
+        "be": "675",
+        "rp": "585"
+    },
+    {
+        "name": "Nami",
+        "description": "the Tidecaller",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Nami_OriginalSquare.png/42px-Nami_OriginalSquare.png?b8c44",
+        "class": "Enchanter",
+        "be": "1575",
+        "rp": "790"
+    },
+    {
+        "name": "Nasus",
+        "description": "the Curator of the Sands",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Nasus_OriginalSquare.png/42px-Nasus_OriginalSquare.png?9a2f8",
+        "class": "Juggernaut",
+        "be": "675",
+        "rp": "585"
+    },
+    {
+        "name": "Nautilus",
+        "description": "the Titan of the Depths",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Nautilus_OriginalSquare.png/42px-Nautilus_OriginalSquare.png?8b72f",
+        "class": "Vanguard",
+        "be": "2400",
+        "rp": "880"
+    },
+    {
+        "name": "Neeko",
+        "description": "the Curious Chameleon",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Neeko_OriginalSquare.png/42px-Neeko_OriginalSquare.png?7667b",
+        "class": "Burst",
+        "be": "2400",
+        "rp": "880"
+    },
+    {
+        "name": "Nidalee",
+        "description": "the Bestial Huntress",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Nidalee_OriginalSquare.png/42px-Nidalee_OriginalSquare.png?c6101",
+        "class": "Specialist",
+        "be": "1575",
+        "rp": "790"
+    },
+    {
+        "name": "Nilah",
+        "description": "the Joy Unbound",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Nilah_OriginalSquare.png/42px-Nilah_OriginalSquare.png?573d3",
+        "class": "Skirmisher",
+        "be": "2400",
+        "rp": "880"
+    },
+    {
+        "name": "Nocturne",
+        "description": "the Eternal Nightmare",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Nocturne_OriginalSquare.png/42px-Nocturne_OriginalSquare.png?3ed03",
+        "class": "Assassin",
+        "be": "1575",
+        "rp": "790"
+    },
+    {
+        "name": "Nunu & Willump",
+        "description": "the Boy and His Yeti",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Nunu_OriginalSquare.png/42px-Nunu_OriginalSquare.png?ef0fa",
+        "class": "Vanguard",
+        "be": "225",
+        "rp": "260"
+    },
+    {
+        "name": "Olaf",
+        "description": "the Berserker",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Olaf_OriginalSquare.png/42px-Olaf_OriginalSquare.png?4841d",
+        "class": "Diver",
+        "be": "1575",
+        "rp": "790"
+    },
+    {
+        "name": "Orianna",
+        "description": "the Lady of Clockwork",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Orianna_OriginalSquare.png/42px-Orianna_OriginalSquare.png?ea994",
+        "class": "Burst",
+        "be": "2400",
+        "rp": "880"
+    },
+    {
+        "name": "Ornn",
+        "description": "The Fire below the Mountain",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Ornn_OriginalSquare.png/42px-Ornn_OriginalSquare.png?ab1d6",
+        "class": "Vanguard",
+        "be": "2400",
+        "rp": "880"
+    },
+    {
+        "name": "Pantheon",
+        "description": "the Unbreakable Spear",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Pantheon_OriginalSquare.png/42px-Pantheon_OriginalSquare.png?81183",
+        "class": "Diver",
+        "be": "675",
+        "rp": "585"
+    },
+    {
+        "name": "Poppy",
+        "description": "Keeper of the Hammer",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Poppy_OriginalSquare.png/42px-Poppy_OriginalSquare.png?fde1f",
+        "class": "Warden",
+        "be": "225",
+        "rp": "260"
+    },
+    {
+        "name": "Pyke",
+        "description": "the Bloodharbor Ripper",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Pyke_OriginalSquare.png/42px-Pyke_OriginalSquare.png?071c0",
+        "class": "Assassin",
+        "be": "1575",
+        "rp": "790"
+    },
+    {
+        "name": "Qiyana",
+        "description": "Empress of the Elements",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Qiyana_OriginalSquare.png/42px-Qiyana_OriginalSquare.png?f2220",
+        "class": "Assassin",
+        "be": "2400",
+        "rp": "880"
+    },
+    {
+        "name": "Quinn",
+        "description": "Demacia's Wings",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Quinn_OriginalSquare.png/42px-Quinn_OriginalSquare.png?098bd",
+        "class": "Specialist",
+        "be": "2400",
+        "rp": "880"
+    },
+    {
+        "name": "Rakan",
+        "description": "The Charmer",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Rakan_OriginalSquare.png/42px-Rakan_OriginalSquare.png?5747a",
+        "class": "Catcher",
+        "be": "2400",
+        "rp": "880"
+    },
+    {
+        "name": "Rammus",
+        "description": "the Armordillo",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Rammus_OriginalSquare.png/42px-Rammus_OriginalSquare.png?3fbfd",
+        "class": "Vanguard",
+        "be": "675",
+        "rp": "585"
+    },
+    {
+        "name": "Rek'Sai",
+        "description": "the Void Burrower",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Rek%27Sai_OriginalSquare.png/42px-Rek%27Sai_OriginalSquare.png?c597d",
+        "class": "Diver",
+        "be": "2400",
+        "rp": "880"
+    },
+    {
+        "name": "Rell",
+        "description": "the Iron Maiden",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Rell_OriginalSquare.png/42px-Rell_OriginalSquare.png?d80b8",
+        "class": "Vanguard",
+        "be": "2400",
+        "rp": "880"
+    },
+    {
+        "name": "Renata Glasc",
+        "description": "the Chem-Baroness",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Renata_Glasc_OriginalSquare.png/42px-Renata_Glasc_OriginalSquare.png?1300f",
+        "class": "Enchanter",
+        "be": "2400",
+        "rp": "880"
+    },
+    {
+        "name": "Renekton",
+        "description": "the Butcher of the Sands",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Renekton_OriginalSquare.png/42px-Renekton_OriginalSquare.png?0f653",
+        "class": "Diver",
+        "be": "2400",
+        "rp": "880"
+    },
+    {
+        "name": "Rengar",
+        "description": "the Pridestalker",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Rengar_OriginalSquare.png/42px-Rengar_OriginalSquare.png?53142",
+        "class": "Assassin",
+        "be": "2400",
+        "rp": "880"
+    },
+    {
+        "name": "Riven",
+        "description": "the Exile",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Riven_OriginalSquare.png/42px-Riven_OriginalSquare.png?6e136",
+        "class": "Skirmisher",
+        "be": "2400",
+        "rp": "880"
+    },
+    {
+        "name": "Rumble",
+        "description": "the Mechanized Menace",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Rumble_OriginalSquare.png/42px-Rumble_OriginalSquare.png?26721",
+        "class": "Battlemage",
+        "be": "2400",
+        "rp": "880"
+    },
+    {
+        "name": "Ryze",
+        "description": "the Rune Mage",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Ryze_OriginalSquare.png/42px-Ryze_OriginalSquare.png?716a1",
+        "class": "Battlemage",
+        "be": "2400",
+        "rp": "260"
+    },
+    {
+        "name": "Samira",
+        "description": "the Desert Rose",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Samira_OriginalSquare.png/42px-Samira_OriginalSquare.png?b57dc",
+        "class": "Marksman",
+        "be": "1575",
+        "rp": "790"
+    },
+    {
+        "name": "Sejuani",
+        "description": "Fury of the North",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Sejuani_OriginalSquare.png/42px-Sejuani_OriginalSquare.png?d585c",
+        "class": "Vanguard",
+        "be": "225",
+        "rp": "260"
+    },
+    {
+        "name": "Senna",
+        "description": "the Redeemer",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Senna_OriginalSquare.png/42px-Senna_OriginalSquare.png?98201",
+        "class": "Marksman",
+        "be": "1575",
+        "rp": "790"
+    },
+    {
+        "name": "Seraphine",
+        "description": "the Starry-Eyed Songstress",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Seraphine_OriginalSquare.png/42px-Seraphine_OriginalSquare.png?a7e01",
+        "class": "Burst",
+        "be": "1575",
+        "rp": "790"
+    },
+    {
+        "name": "Sett",
+        "description": "the Boss",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Sett_OriginalSquare.png/42px-Sett_OriginalSquare.png?a9ec3",
+        "class": "Juggernaut",
+        "be": "675",
+        "rp": "585"
+    },
+    {
+        "name": "Shaco",
+        "description": "the Demon Jester",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Shaco_OriginalSquare.png/42px-Shaco_OriginalSquare.png?dd925",
+        "class": "Assassin",
+        "be": "1575",
+        "rp": "790"
+    },
+    {
+        "name": "Shen",
+        "description": "the Eye of Twilight",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Shen_OriginalSquare.png/42px-Shen_OriginalSquare.png?7795f",
+        "class": "Warden",
+        "be": "1575",
+        "rp": "790"
+    },
+    {
+        "name": "Shyvana",
+        "description": "the Half-Dragon",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Shyvana_OriginalSquare.png/42px-Shyvana_OriginalSquare.png?2f509",
+        "class": "Juggernaut",
+        "be": "1575",
+        "rp": "790"
+    },
+    {
+        "name": "Singed",
+        "description": "the Mad Chemist",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Singed_OriginalSquare.png/42px-Singed_OriginalSquare.png?e9e6e",
+        "class": "Specialist",
+        "be": "2400",
+        "rp": "260"
+    },
+    {
+        "name": "Sion",
+        "description": "The Undead Juggernaut",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Sion_OriginalSquare.png/42px-Sion_OriginalSquare.png?33ac7",
+        "class": "Vanguard",
+        "be": "675",
+        "rp": "585"
+    },
+    {
+        "name": "Sivir",
+        "description": "the Battle Mistress",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Sivir_OriginalSquare.png/42px-Sivir_OriginalSquare.png?2852b",
+        "class": "Marksman",
+        "be": "225",
+        "rp": "260"
+    },
+    {
+        "name": "Skarner",
+        "description": "the Primordial Sovereign",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Skarner_OriginalSquare.png/42px-Skarner_OriginalSquare.png?76e44",
+        "class": "Vanguard",
+        "be": "2400",
+        "rp": "880"
+    },
+    {
+        "name": "Smolder",
+        "description": "the Fiery Fledgling",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Smolder_OriginalSquare.png/42px-Smolder_OriginalSquare.png?d6866",
+        "class": "Marksman",
+        "be": "3150",
+        "rp": "975"
+    },
+    {
+        "name": "Sona",
+        "description": "Maven of the Strings",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Sona_OriginalSquare.png/42px-Sona_OriginalSquare.png?72d48",
+        "class": "Enchanter",
+        "be": "225",
+        "rp": "260"
+    },
+    {
+        "name": "Soraka",
+        "description": "the Starchild",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Soraka_OriginalSquare.png/42px-Soraka_OriginalSquare.png?0c2df",
+        "class": "Enchanter",
+        "be": "225",
+        "rp": "260"
+    },
+    {
+        "name": "Swain",
+        "description": "the Noxian Grand General",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Swain_OriginalSquare.png/42px-Swain_OriginalSquare.png?b7cdb",
+        "class": "Battlemage",
+        "be": "1575",
+        "rp": "790"
+    },
+    {
+        "name": "Sylas",
+        "description": "the Unshackled",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Sylas_OriginalSquare.png/42px-Sylas_OriginalSquare.png?5939c",
+        "class": "Burst",
+        "be": "1575",
+        "rp": "790"
+    },
+    {
+        "name": "Syndra",
+        "description": "the Dark Sovereign",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Syndra_OriginalSquare.png/42px-Syndra_OriginalSquare.png?f6b95",
+        "class": "Burst",
+        "be": "1575",
+        "rp": "790"
+    },
+    {
+        "name": "Tahm Kench",
+        "description": "The River King",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Tahm_Kench_OriginalSquare.png/42px-Tahm_Kench_OriginalSquare.png?c177a",
+        "class": "Warden",
+        "be": "2400",
+        "rp": "880"
+    },
+    {
+        "name": "Taliyah",
+        "description": "the Stoneweaver",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Taliyah_OriginalSquare.png/42px-Taliyah_OriginalSquare.png?c757b",
+        "class": "Battlemage",
+        "be": "2400",
+        "rp": "880"
+    },
+    {
+        "name": "Talon",
+        "description": "the Blade's Shadow",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Talon_OriginalSquare.png/42px-Talon_OriginalSquare.png?eb66c",
+        "class": "Assassin",
+        "be": "1575",
+        "rp": "790"
+    },
+    {
+        "name": "Taric",
+        "description": "the Shield of Valoran",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Taric_OriginalSquare.png/42px-Taric_OriginalSquare.png?df987",
+        "class": "Enchanter",
+        "be": "675",
+        "rp": "585"
+    },
+    {
+        "name": "Teemo",
+        "description": "the Swift Scout",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Teemo_OriginalSquare.png/42px-Teemo_OriginalSquare.png?783d6",
+        "class": "Specialist",
+        "be": "225",
+        "rp": "260"
+    },
+    {
+        "name": "Thresh",
+        "description": "the Chain Warden",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Thresh_OriginalSquare.png/42px-Thresh_OriginalSquare.png?9ef1d",
+        "class": "Catcher",
+        "be": "1575",
+        "rp": "790"
+    },
+    {
+        "name": "Tristana",
+        "description": "the Yordle Gunner",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Tristana_OriginalSquare.png/42px-Tristana_OriginalSquare.png?b2200",
+        "class": "Marksman",
+        "be": "675",
+        "rp": "585"
+    },
+    {
+        "name": "Trundle",
+        "description": "the Troll King",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Trundle_OriginalSquare.png/42px-Trundle_OriginalSquare.png?4bae6",
+        "class": "Juggernaut",
+        "be": "1575",
+        "rp": "790"
+    },
+    {
+        "name": "Tryndamere",
+        "description": "the Barbarian King",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Tryndamere_OriginalSquare.png/42px-Tryndamere_OriginalSquare.png?3eb36",
+        "class": "Skirmisher",
+        "be": "675",
+        "rp": "585"
+    },
+    {
+        "name": "Twisted Fate",
+        "description": "the Card Master",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Twisted_Fate_OriginalSquare.png/42px-Twisted_Fate_OriginalSquare.png?72748",
+        "class": "Burst",
+        "be": "2400",
+        "rp": "585"
+    },
+    {
+        "name": "Twitch",
+        "description": "the Plague Rat",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Twitch_OriginalSquare.png/42px-Twitch_OriginalSquare.png?143e2",
+        "class": "Marksman",
+        "be": "1575",
+        "rp": "790"
+    },
+    {
+        "name": "Udyr",
+        "description": "the Spirit Walker",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Udyr_OriginalSquare.png/42px-Udyr_OriginalSquare.png?fe8df",
+        "class": "Juggernaut",
+        "be": "675",
+        "rp": "585"
+    },
+    {
+        "name": "Urgot",
+        "description": "the Dreadnought",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Urgot_OriginalSquare.png/42px-Urgot_OriginalSquare.png?1c3ee",
+        "class": "Juggernaut",
+        "be": "1575",
+        "rp": "790"
+    },
+    {
+        "name": "Varus",
+        "description": "the Arrow of Retribution",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Varus_OriginalSquare.png/42px-Varus_OriginalSquare.png?1f1e0",
+        "class": "Marksman",
+        "be": "2400",
+        "rp": "880"
+    },
+    {
+        "name": "Vayne",
+        "description": "the Night Hunter",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Vayne_OriginalSquare.png/42px-Vayne_OriginalSquare.png?78bd3",
+        "class": "Marksman",
+        "be": "1575",
+        "rp": "790"
+    },
+    {
+        "name": "Veigar",
+        "description": "the Tiny Master of Evil",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Veigar_OriginalSquare.png/42px-Veigar_OriginalSquare.png?2add0",
+        "class": "Burst",
+        "be": "675",
+        "rp": "585"
+    },
+    {
+        "name": "Vel'Koz",
+        "description": "the Eye of the Void",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Vel%27Koz_OriginalSquare.png/42px-Vel%27Koz_OriginalSquare.png?0c64b",
+        "class": "Artillery",
+        "be": "1618",
+        "rp": "880"
+    },
+    {
+        "name": "Vex",
+        "description": "the Gloomist",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Vex_OriginalSquare.png/42px-Vex_OriginalSquare.png?f6345",
+        "class": "Burst",
+        "be": "1575",
+        "rp": "790"
+    },
+    {
+        "name": "Vi",
+        "description": "the Piltover Enforcer",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Vi_OriginalSquare.png/42px-Vi_OriginalSquare.png?78709",
+        "class": "Diver",
+        "be": "675",
+        "rp": "585"
+    },
+    {
+        "name": "Viego",
+        "description": "The Ruined King",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Viego_OriginalSquare.png/42px-Viego_OriginalSquare.png?5f898",
+        "class": "Skirmisher",
+        "be": "2400",
+        "rp": "880"
+    },
+    {
+        "name": "Viktor",
+        "description": "the Herald of the Arcane",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Viktor_OriginalSquare.png/42px-Viktor_OriginalSquare.png?84e3d",
+        "class": "Battlemage",
+        "be": "2400",
+        "rp": "880"
+    },
+    {
+        "name": "Vladimir",
+        "description": "the Crimson Reaper",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Vladimir_OriginalSquare.png/42px-Vladimir_OriginalSquare.png?41820",
+        "class": "Battlemage",
+        "be": "1575",
+        "rp": "790"
+    },
+    {
+        "name": "Volibear",
+        "description": "the Relentless Storm",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Volibear_OriginalSquare.png/42px-Volibear_OriginalSquare.png?b4f76",
+        "class": "Juggernaut",
+        "be": "675",
+        "rp": "585"
+    },
+    {
+        "name": "Warwick",
+        "description": "the Uncaged Wrath of Zaun",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Warwick_OriginalSquare.png/42px-Warwick_OriginalSquare.png?cc8c7",
+        "class": "Diver",
+        "be": "225",
+        "rp": "260"
+    },
+    {
+        "name": "Wukong",
+        "description": "the Monkey King",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Wukong_OriginalSquare.png/42px-Wukong_OriginalSquare.png?bac3b",
+        "class": "Diver",
+        "be": "1575",
+        "rp": "790"
+    },
+    {
+        "name": "Xayah",
+        "description": "the Rebel",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Xayah_OriginalSquare.png/42px-Xayah_OriginalSquare.png?17473",
+        "class": "Marksman",
+        "be": "2400",
+        "rp": "880"
+    },
+    {
+        "name": "Xerath",
+        "description": "the Magus Ascendant",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Xerath_OriginalSquare.png/42px-Xerath_OriginalSquare.png?ae665",
+        "class": "Artillery",
+        "be": "675",
+        "rp": "585"
+    },
+    {
+        "name": "Xin Zhao",
+        "description": "the Seneschal of Demacia",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Xin_Zhao_OriginalSquare.png/42px-Xin_Zhao_OriginalSquare.png?c48eb",
+        "class": "Diver",
+        "be": "675",
+        "rp": "585"
+    },
+    {
+        "name": "Yasuo",
+        "description": "the Unforgiven",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Yasuo_OriginalSquare.png/42px-Yasuo_OriginalSquare.png?efb3b",
+        "class": "Skirmisher",
+        "be": "675",
+        "rp": "585"
+    },
+    {
+        "name": "Yone",
+        "description": "the Unforgotten",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Yone_OriginalSquare.png/42px-Yone_OriginalSquare.png?4b7e6",
+        "class": "Assassin",
+        "be": "1575",
+        "rp": "790"
+    },
+    {
+        "name": "Yorick",
+        "description": "Shepherd of Souls",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Yorick_OriginalSquare.png/42px-Yorick_OriginalSquare.png?13f0f",
+        "class": "Juggernaut",
+        "be": "1575",
+        "rp": "790"
+    },
+    {
+        "name": "Yunara",
+        "description": "the Unbroken Faith",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Yunara_OriginalSquare.png/42px-Yunara_OriginalSquare.png?7b5b6",
+        "class": "Marksman",
+        "be": "3150",
+        "rp": "975"
+    },
+    {
+        "name": "Yuumi",
+        "description": "the Magical Cat",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Yuumi_OriginalSquare.png/42px-Yuumi_OriginalSquare.png?c851e",
+        "class": "Enchanter",
+        "be": "225",
+        "rp": "260"
+    },
+    {
+        "name": "Zac",
+        "description": "the Secret Weapon",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Zac_OriginalSquare.png/42px-Zac_OriginalSquare.png?01e68",
+        "class": "Vanguard",
+        "be": "2400",
+        "rp": "880"
+    },
+    {
+        "name": "Zed",
+        "description": "the Master of Shadows",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Zed_OriginalSquare.png/42px-Zed_OriginalSquare.png?b08cd",
+        "class": "Assassin",
+        "be": "675",
+        "rp": "585"
+    },
+    {
+        "name": "Zeri",
+        "description": "The Spark of Zaun",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Zeri_OriginalSquare.png/42px-Zeri_OriginalSquare.png?3b11a",
+        "class": "Marksman",
+        "be": "2400",
+        "rp": "880"
+    },
+    {
+        "name": "Ziggs",
+        "description": "the Hexplosives Expert",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Ziggs_OriginalSquare.png/42px-Ziggs_OriginalSquare.png?d44a6",
+        "class": "Artillery",
+        "be": "2400",
+        "rp": "880"
+    },
+    {
+        "name": "Zilean",
+        "description": "the Chronokeeper",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Zilean_OriginalSquare.png/42px-Zilean_OriginalSquare.png?f0cc9",
+        "class": "Specialist",
+        "be": "675",
+        "rp": "585"
+    },
+    {
+        "name": "Zoe",
+        "description": "the Aspect of Twilight",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Zoe_OriginalSquare.png/42px-Zoe_OriginalSquare.png?c2d6a",
+        "class": "Burst",
+        "be": "2400",
+        "rp": "880"
+    },
+    {
+        "name": "Zyra",
+        "description": "Rise of the Thorns",
+        "image": "https://wiki.leagueoflegends.com//en-us/images/thumb/Zyra_OriginalSquare.png/42px-Zyra_OriginalSquare.png?e97f0",
+        "class": "Catcher",
+        "be": "1575",
+        "rp": "790"
+    }
+]
